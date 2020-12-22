@@ -1,0 +1,5 @@
+# Exported from 3D Builder
+
+newmtl blinn2
+Kd 1.000000 1.000000 1.000000
+map_Kd blinn2_baseColor.png
